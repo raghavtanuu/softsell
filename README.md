@@ -1,12 +1,57 @@
-# React + Vite
+# SoftSell - Software License Resale Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, single-page marketing website for a fictional software resale startup called **SoftSell**.  
+Built as part of the **Credex Web Development Internship Assignment**.
 
-Currently, two official plugins are available:
+### 🌐 Live Demo
+[https://webdevelopment-raghavtanu93-gmailcoms-projects.vercel.app](https://webdevelopment-raghavtanu93-gmailcoms-projects.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features Implemented
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Hero Section** with headline, subheading, and CTA ("Sell My Licenses")
+- **How It Works** section with three illustrated steps: Upload → Valuation → Get Paid
+- **Why Choose Us** section with benefit tiles and icons
+- **Customer Testimonials** with dummy reviews
+- **Responsive Contact Form** with:
+  - Name
+  - Email
+  - Company
+  - License Type (dropdown)
+  - Message (with validation)
+- **Fully responsive layout** (mobile-first)
+- **Modern UI** using Tailwind CSS
+- **Deployed on Vercel**
+
+---
+
+## 🌟 Bonus Features
+
+- ✅ Favicon and logo placeholder
+- ✅ SEO-friendly title and meta tags
+- ✅ Light/Dark Mode toggle
+- ✅ Smooth animations with Framer Motion
+- ✅ Clean and minimal design aesthetic
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js + Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+- **Deployed on Vercel**
+- No backend — fully frontend & static
+
+---
+
+## 🕒 Time Spent
+
+~ 8–10 hours total  
+Includes design, development, responsiveness, and deployment.
+
+---
+
+## 📁 Folder Structure
+
